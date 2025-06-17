@@ -47,4 +47,26 @@
   header h2 {
     font-size: 2.5em;
   }
+
+  .quick-notes ul {
+    display: block;
+  }
+
+  .quick-notes ul li {
+    margin-right: 0;
+  }
+
+  .recipe-card {
+    display: flex;
+  }
+
+  .recipe-info {
+    width: 30%;
+  }
+
+  .recipe-video {
+    width: 70%;
+  }
+
+
 }
