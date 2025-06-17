@@ -3,7 +3,7 @@
 @media screen and (min-width:768px) {
 
   main {
-    padding: 40px;
+    padding: 34px;
   }
 
   #topbar {
@@ -17,5 +17,18 @@
 
   .quick-notes ul li {
     margin-right: 73px;
+  }
+
+  .social-networks .btn {
+    padding: 10px 55px;
+  }
+
+  .recipe-origin {
+    display: inline-block;
+  }
+
+  .presentation img {
+    float: left;
+    margin-right: 20px;
   }
 }
