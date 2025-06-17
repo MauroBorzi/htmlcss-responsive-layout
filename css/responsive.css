@@ -31,4 +31,8 @@
     float: left;
     margin-right: 20px;
   }
+
+  .ads {
+    display: block;
+  }
 }
