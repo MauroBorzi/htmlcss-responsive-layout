@@ -1,4 +1,15 @@
 /* Soluzione qui */
+@media screen and (min-width:576px) {
+  .presentation img {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .social-networks .btn {
+    padding: 10px 38px;
+  }
+}
+
 
 @media screen and (min-width:768px) {
 
