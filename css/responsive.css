@@ -68,5 +68,14 @@
     width: 70%;
   }
 
+  .social-networks .label {
+    display: flex;
+  }
+
+  .social-networks .btn {
+    padding: 10px 47px;
+  }
+
+
 
 }
