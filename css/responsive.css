@@ -66,6 +66,7 @@
 
   .recipe-video {
     width: 70%;
+    height: 400px;
   }
 
   .social-networks .label {
@@ -76,6 +77,13 @@
     padding: 10px 47px;
   }
 
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
 
+  footer address {
+    text-align: left;
+  }
 
 }
