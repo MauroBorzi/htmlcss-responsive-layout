@@ -24,10 +24,11 @@
   .quick-notes ul {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
   }
 
   .quick-notes ul li {
-    width: calc(100% / 3);
+    width: calc(100% / 3 - 20px);
   }
 
   .social-networks .btn {
@@ -64,7 +65,7 @@
   }
 
   .quick-notes ul li {
-    margin-right: 0;
+    width: 100%;
   }
 
   .recipe-card {
@@ -77,11 +78,11 @@
 
   .recipe-video {
     width: 70%;
-    height: 400px;
+    max-height: 400px;
   }
 
   .social-networks .label {
-    display: flex;
+    display: inline;
   }
 
   .social-networks .btn {
