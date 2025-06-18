@@ -27,7 +27,7 @@
   }
 
   .quick-notes ul li {
-    margin-right: 73px;
+    width: calc(100% / 3);
   }
 
   .social-networks .btn {
